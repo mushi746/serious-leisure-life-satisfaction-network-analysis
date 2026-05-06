@@ -5,7 +5,7 @@ Analytical code for the manuscript submitted to Humanities and Social Sciences C
 
 - `HSSC_network_analysis_code.R`: R code for estimating the network, calculating predictability, centrality, bridge expected influence, flow plots, and bootstrapped stability analyses.
 - `anonymised_data.csv`: De-identified dataset containing the serious leisure and life satisfaction variables used in the main network analysis.
-- `correlation_heatmap_code.R`: R code for computing the correlation matrix and generating the correlation heatmap.
+- `correlate.R`: R code for computing the correlation matrix and generating the correlation heatmap.
 
 ## Data anonymisation
 
