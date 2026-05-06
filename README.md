@@ -2,4 +2,4 @@
 Analytical code for the manuscript submitted to Humanities and Social Sciences Communications.
 ## Contents
 
-- `HSSC_analysis_code.R`: R code used for network estimation, centrality analysis, bridge expected influence, predictability, bootstrapped stability analysis.
+- `HSSC_analysis_code.R`: R code used for correlation analysis, network estimation, centrality analysis, bridge expected influence, predictability, bootstrapped stability analysis.
